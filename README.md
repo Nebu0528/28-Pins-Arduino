@@ -10,7 +10,7 @@ Created a Replica of an Arduino Uno Board with modifications (listed below)
 PDF Files can be found in the folders attached above
 
 ## PCB
-![pcb](https://user-images.githubusercontent.com/85001440/153772685-8ba2ae11-507e-413b-a6c7-8df8225b3f37.png)
+![image](https://user-images.githubusercontent.com/85001440/155910636-87044322-faf2-417f-a7f6-8c74c9093537.png)
 ## 3D Model
 ![image](https://user-images.githubusercontent.com/85001440/155583882-7441af8e-ba0f-42d7-bb9d-cacd80ac4069.png)
 

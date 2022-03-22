@@ -1,0 +1,8 @@
+Change Component Comment : Designator=D3 Old Comment=Comment New Comment=Orange
+Change Component Comment : Designator=D4 Old Comment=Comment New Comment=Orange
+Added Pin To Net: NetName=NetD3_2 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=R2-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=R3-1
+Added Net: Name=NetD4_2

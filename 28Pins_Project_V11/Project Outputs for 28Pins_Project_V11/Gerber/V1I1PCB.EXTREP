@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: V1I1PCB.GBR   2022-03-22  12:45:31 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.GBL                L2                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Mechanical Drawing                      
+.GM3                Assembly Notes                          
+.GM28               Board Outline                           
+.GM29               Top Assembly                            
+.GM30               Bottom Assembly                         
+.GKO                Keep-Out Layer                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------

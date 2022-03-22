@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Neel Bullywon\Desktop\(Don't Delete)UWARG Bootcamp\28Pins_Project_V11\V1I1PCB.PcbDoc
+RuleKind=Clearance|RuleName=Around Polygons|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=width POWERS|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
